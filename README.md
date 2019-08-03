@@ -6,3 +6,5 @@
 The link is [here](https://github.com/GuanWenlong/DHSNet-PyTorch).  
 2.R-FCN Object Detection via Region-based Fully Convolutional Networks. (arXiv)  
 The link is [here](https://github.com/PureDiors/pytorch_RFCN).
+3.R-FCN Object Detection via Region-based Fully Convolutional Networks. (arXiv) 
+The link is [here](https://github.com/PureDiors/pytorch_RFCN).
